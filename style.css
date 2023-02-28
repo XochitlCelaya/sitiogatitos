@@ -1,0 +1,50 @@
+/*Estilo en el body*/
+body {
+    /*color de la letras*/
+    color: #ffbf4d;
+    /*Color del fondo*/
+    background-color:white ;
+}
+
+p{
+    color:#ff46c0;
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace
+}
+h1{
+    font-family: 'Gloock', serif;
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+    color:#ff4f08;
+    font-family: 'Roboto Mono', monospace;
+}
+ol{
+    font-size: 20px;
+    color: palevioletred;
+    font-family: 'Roboto Mono', monospace
+}
+ul{
+    font-size: 20px;
+    color:palevioletred;
+    font-family: 'Roboto Mono', monospace
+}
+img{
+    /*ancho width*/
+    width: 200px;
+    /*altura height: ;*/
+    /*colocar borde a las imagenes*/
+    border-style:groove;
+    /*ancho del marco*/
+    border-width: 5px;
+    /*color del borde*/
+    border-color: #ff4f08;
+    margin: 100px;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background-color: #f5b76c;
+}
+
